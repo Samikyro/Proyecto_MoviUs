@@ -9,3 +9,6 @@ Rol: Administrador del servidor
 ________________________________________________________________________
 Nombre: Alexander Hernández Herrera
 Rol: Product Owner
+________________________________________________________________________
+Nombre: Holman Zarta Zarate
+Rol: Analista
