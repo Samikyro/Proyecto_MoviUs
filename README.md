@@ -12,3 +12,6 @@ Rol: Product Owner
 ________________________________________________________________________
 Nombre: Holman Zarta Zarate
 Rol: Analista
+________________________________________________________________________
+Nombre: Eneidy Johanna Betancourth Arias
+Rol: Analista
