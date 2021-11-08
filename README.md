@@ -15,3 +15,6 @@ Rol: Analista
 ________________________________________________________________________
 Nombre: Eneidy Johanna Betancourth Arias
 Rol: Analista
+________________________________________________________________________
+Nombre: Sharon Juliana Barboza Maestre
+Rol: Analista
